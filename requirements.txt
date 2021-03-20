@@ -1,6 +1,6 @@
 Babel==2.6.0
 JPype1==0.6.3
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 Platypus==1.0
 PyScaffold==2.5.7
